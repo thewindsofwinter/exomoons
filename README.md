@@ -1,2 +1,4 @@
 # exomoons
-Code from an amateur to model the effects of radiation from large host planets (mini-Neptunes to hot Jupiters) upon potentially habitable exomoons. Also a way for me to make time to learn astrobiology. May expand scope in the future.
+Work in Progress
+
+Code from an amateur to model the effects of radiation from large host planets (mini-Neptunes to hot Jupiters) upon potentially habitable exomoons. This attempt will have multiple objectives. Foremost, I want to create a way to computationally model the effects of host planets on potential exomoons. At minimum, one should be able to control the temperature of the host star, the size of the host planet, the orbital period of the host planet and eccentricity, the orbital period of the exomoon about the host planet, orbital inclination, and the size of the exomoon. Beyond just radiation levels to the moon over time, ideally one would also be able to simulate the moon's orbital stability, gravitational effects from its host planet, temperatures, and maybe if I'm feeling especially ambitious atmospheric and tectonic effects.
